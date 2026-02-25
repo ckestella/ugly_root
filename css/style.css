@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: #7A5901;
+    
+
+h1{
+    color: pink
+}
+
+p{
+    color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cocobutt1{
+    width: 300px;
+    height: 300px;
+}
