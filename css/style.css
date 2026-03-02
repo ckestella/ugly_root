@@ -2,18 +2,37 @@ body{
     text-align: center;
     background-color: #7A5901;
     background-image: url('../img/howsurknee.jpeg');
+    cursor: url('../img/cursoremoji.png'), auto;
+}
     
 
 h1{
-    color: brown
+    color: brown;
+    background-color: rgb(140, 123, 0);
+    font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 
 p{
     color: yellow;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 
 #cocobutt1{
+    width: 300px;
+    height: 300px;
+}
+
+#uglycoco1{
+    width: 300px;
+    height: 300px;
+}
+
+#doggif{
+    width:400px;
+    height: 400px;
+}
+
+#cocobutt2{
     width: 300px;
     height: 300px;
 }
